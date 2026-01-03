@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ömer 👋
+
+- 💻 Interested in C# and .NET
+- 📚 Currently learning data structures & algorithms
+- 🚀 Building small projects consistently
+
+### Tech
+- C#
+- .NET
+- Git & GitHub
+
 
 <!--
 **Omer-Faruk-Dusgun/Omer-Faruk-Dusgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
